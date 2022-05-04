@@ -21,3 +21,6 @@ The 5 points are:
   - KEY
   - aws_accss_key
   - aws_secret_access_key
+
+## That's all. 
+Run the program, make sure your file name matches the key on the downloader function. And you should have a working machine learning downloader at your hands. Feel free to replace the machine learning model I used with yours, everything should work out the box.
